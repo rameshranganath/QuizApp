@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">1. Which of the following is the correct statement to return QUIZ?</string>
+    <string name="question2">2. What is the return value of "SWITCH".substring(0, 4)?</string>
+    <string name="question3">3. Which of these data types requires the highest amount of memory?</string>
+    <string name="question4">4. A Java character is stored in</string>
+    <string name="question5">5. A variable defined inside a method is referred as</string>
+    <string name="ques1Ans1">toUpperCase("Java")</string>
+    <string name="ques1Ans2">String.toUpperCase("Java")</string>
+    <string name="ques1Ans3">"Java".toUpperCase()</string>
+    <string name="ques2Ans1">SWITCH</string>
+    <string name="ques2Ans2">SWIT</string>
+    <string name="ques2Ans3">SWITC</string>
+    <string name="ques3Ans1">long</string>
+    <string name="ques3Ans2">int</string>
+    <string name="ques3Ans3">short</string>
+    <string name="ques4Ans1">three bytes</string>
+    <string name="ques4Ans2">two bytes</string>
+    <string name="ques4Ans3">one byte</string>
+    <string name="ques5Ans1">method variable</string>
+    <string name="ques5Ans2">global variable</string>
+    <string name="ques5Ans3">local variable</string>
+</resources>
