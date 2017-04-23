@@ -140,6 +140,45 @@
                 android:text="@string/ques5Ans3" />
         </RadioGroup>
 
+        <TextView
+            style="@style/textHeaderType"
+            android:text="@string/question6" />
+
+        <CheckBox
+            android:id="@+id/question6answer1"
+            style="@style/checkBoxHeaderType"
+            android:text="@string/ques6Ans1" />
+
+        <CheckBox
+            android:id="@+id/question6answer2"
+            style="@style/checkBoxHeaderType"
+            android:text="@string/ques6Ans2" />
+
+        <CheckBox
+            android:id="@+id/question6answer3"
+            style="@style/checkBoxHeaderType"
+            android:text="@string/ques6Ans3" />
+
+        <CheckBox
+            android:id="@+id/question6answer4"
+            style="@style/checkBoxHeaderType"
+            android:text="@string/ques6Ans4" />
+
+        <TextView
+            style="@style/textHeaderType"
+            android:layout_marginTop="8sp"
+            android:text="@string/question7" />
+
+        <EditText
+            android:id="@+id/userInputText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:focusableInTouchMode="true"
+            android:hint="Enter your Answer"
+            android:inputType="textCapWords"
+            android:textStyle="italic" />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"

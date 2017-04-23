@@ -5,6 +5,8 @@
     <string name="question3">3. Which of these data types requires the highest amount of memory?</string>
     <string name="question4">4. A Java character is stored in</string>
     <string name="question5">5. A variable defined inside a method is referred as</string>
+    <string name="question6">6. Which of these can be overloaded?</string>
+    <string name="question7">7. What’s the base class in Java from which all classes are derived?</string>
     <string name="ques1Ans1">toUpperCase("Java")</string>
     <string name="ques1Ans2">String.toUpperCase("Java")</string>
     <string name="ques1Ans3">"Java".toUpperCase()</string>
@@ -20,4 +22,8 @@
     <string name="ques5Ans1">method variable</string>
     <string name="ques5Ans2">global variable</string>
     <string name="ques5Ans3">local variable</string>
+    <string name="ques6Ans1">Methods</string>
+    <string name="ques6Ans2">Constructors</string>
+    <string name="ques6Ans3">All of above</string>
+    <string name="ques6Ans4">None of above</string>
 </resources>
